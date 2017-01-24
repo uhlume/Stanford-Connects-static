@@ -7,7 +7,7 @@ body {
 	font-family: "museo-sans-n3", "museo-sans", Helvetica, Arial, sans-serif;
 	font-weight: 300;
     background-color: #d5d0c0;
-    background-image: url("../Stanford-Connects-static/img/background/diags2.png");
+    background-image: url("../img/background/diags2.png");
 }
 
 h2, h3, h4, h5, h6 {
@@ -225,7 +225,7 @@ h1.header-box {
 }
 
 .icon.icon-saa {
-	background-image: url("../Stanford-Connects-static/img/saa-logo-black-75px.png");
+	background-image: url("../img/saa-logo-black-75px.png");
 	background-repeat: no-repeat;
 	background-size: auto;
 	background-position: 0 6px;
@@ -234,7 +234,7 @@ h1.header-box {
 }
 
 .icon.icon-saa-small {
-	background-image: url("../Stanford-Connects-static/img/saa-logo-black-50px.png");
+	background-image: url("../img/saa-logo-black-50px.png");
 	background-repeat: no-repeat;
 	background-size: auto;
 	background-position: 0 6px;
@@ -384,7 +384,7 @@ h1.header-box {
 }
 
 #tagline .saa-logo {
-	background-image: url("../Stanford-Connects-static/img/saa-logo-white-75px.png");
+	background-image: url("../img/saa-logo-white-75px.png");
 	background-repeat: no-repeat;
 	background-size: auto;
 	background-position: 30px center;
@@ -398,7 +398,7 @@ h1.header-box {
 }
 
 #about .content {
-	background-image: url("../Stanford-Connects-static/img/background/saa-watermark.jpg");
+	background-image: url("../img/background/saa-watermark.jpg");
 	background-position: center center;
 	background-size: auto 80%;
 	background-repeat: no-repeat;
@@ -414,23 +414,23 @@ h1.header-box {
 }
 
 #arizona h1 {
-	background-image: url("../Stanford-Connects-static/img/background/arizona.jpg"); 
+	background-image: url("../img/background/arizona.jpg"); 
 }
 
 #minnesota h1 {
-	background-image: url("../Stanford-Connects-static/img/background/minneapolis.jpg");
+	background-image: url("../img/background/minneapolis.jpg");
 }
 
 #europe h1 {
-	background-image: url("../Stanford-Connects-static/img/background/paris.jpg");
+	background-image: url("../img/background/paris.jpg");
 }
 
 #atlanta h1 {
-	background-image: url("../Stanford-Connects-static/img/background/atlanta2.jpg");
+	background-image: url("../img/background/atlanta2.jpg");
 }
 
 #losangeles h1 {
-	background-image: url("../Stanford-Connects-static/img/background/losangeles.jpg");
+	background-image: url("../img/background/losangeles.jpg");
 }
 
 
@@ -459,7 +459,7 @@ h1.header-box {
 /* ---------------------------------- Social media icons ----------------------------------- */
 
 .icon-social {
-	background-image: url("../Stanford-Connects-static/img/social-icons.png");
+	background-image: url("../img/social-icons.png");
 }
 
 .icon-facebook {
@@ -761,7 +761,7 @@ h6 small {
     }
     
     #tagline .saa-logo {
-        background-image: url("../Stanford-Connects-static/img/saa-logo-white-50px.png");
+        background-image: url("../img/saa-logo-white-50px.png");
         background-position: 12px center;
         min-height: 50px;
         padding: 1px 50px;
